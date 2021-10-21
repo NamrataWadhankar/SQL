@@ -1,2 +1,2 @@
 # SQL
-SQL Repo
+SQL Repo for learning
